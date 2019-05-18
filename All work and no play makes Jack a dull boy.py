@@ -1,0 +1,11 @@
+All = "All"
+work = "work"
+nd = "and"
+no = "no"
+play = "play"
+makes = "makes"
+Jack = "Jack"
+a = "a"
+dull = "dull"
+boy = "boy"
+print(All, work, nd, no, play, makes, Jack, a, dull, boy)
